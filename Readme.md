@@ -1,0 +1,1 @@
+Este es un curso completo de Econometría. Tiene el fin de ayudar a los de estudiantes de la UNALM a que consoliden sus conocimientos de Econometría.
